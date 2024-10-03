@@ -1,4 +1,6 @@
-## Hi there 👋
+# About me
+
+I am a medical student interested in coding and computational biology. I am currently working on my MD project about liposarcoma genomics.
 
 <!--
 **CarlosRauert/CarlosRauert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
